@@ -1,5 +1,5 @@
 {
-  "name"          : "client-cookies",
+  "name"          : "jakobmattsson-client-cookies",
   "description"   : "Client-Side Cookie Manipulation API",
   "homepage"      : "http://github.com/ScottHamper/Cookies",
   "keywords"      : ["cookies", "client", "browser"],
